@@ -1,6 +1,6 @@
 [build]
   base = ""  
-  publish = "public"  
+  publish = ""  
   command = ""  
 [build.environment]
   NODE_VERSION = "16"
